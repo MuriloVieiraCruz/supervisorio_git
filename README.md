@@ -14,11 +14,11 @@ Um sensor ultrassônico (por meio do esp32) monitora a quantidade de água, onde
 Através da tela no front-end será possível alterar para o modo manual, onde o usuário escolhe se quer ligar a bomba de água para encher o reservatório, ou se quer ativar o fluxostato para drenar a quantidade de água. 
 
 ## Layout web
-![Web 1](https://github.com/oTalDoHud/ProjetoDashBoardVendas/blob/master/Assets/web1.png)
+![Web 1](https://github.com/MuriloVieiraCruz/supervisorio_git/blob/main/assets/Captura%20de%20tela%20gr%C3%A1fico.png)
 
-![Web 2](https://github.com/oTalDoHud/ProjetoDashBoardVendas/blob/master/Assets/web2.png)
+![Web 2](https://github.com/MuriloVieiraCruz/supervisorio_git/blob/main/assets/Captura%20de%20tela%20opera%C3%A7%C3%A3o.png)
 
-![Web 3](https://github.com/oTalDoHud/ProjetoDashBoardVendas/blob/master/Assets/web3.png)
+![Web 3](https://github.com/MuriloVieiraCruz/supervisorio_git/blob/main/assets/Captura%20de%20tela%20supervis%C3%A3o.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -34,41 +34,28 @@ Através da tela no front-end será possível alterar para o modo manual, onde o
 # Como executar o projeto
 
 ## Back end
-Pré-requisitos: Java 11
+Pré-requisitos: Java 17
 
 ```bash
 # clonar repositório
-git clone https://github.com/oTalDoHud/ProjetoDashBoardVendas
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
+git clone https://github.com/MuriloVieiraCruz/supervisorio_git
 ```
 
 ## Front end web
-Pré-requisitos: npm / yarn
+Pré-requisitos: npm
 
 ```bash
 # clonar repositório
-git clone https://github.com/oTalDoHud/ProjetoDashBoardVendas
-
-# entrar na pasta do projeto front end web
-cd front-web
+git clone https://github.com/MuriloVieiraCruz/supervisorio_git
 
 # instalar dependências
-yarn install
+npm install
 
 # executar o projeto
-yarn start
+npm run dev
 ```
 
-# Autor
+# Autores
 
-Hudson Lucas Teles Vieira
-
-www.linkedin.com/in/otaldohud
-
-hudson.lucas.vieira@gmail.com
- 
+| [<img src="https://avatars.githubusercontent.com/u/113257963?v=4" width=115><br><sub>Murilo Vieira Cruz</sub>](https://github.com/MuriloVieiraCruz) |  [<img src="https://avatars.githubusercontent.com/u/117123575?v=4" width=115><br><sub>Luiz Henrique Pereira Corrêa</sub>](https://github.com/luiz0899)
+| :---: | :---: | :---: |
