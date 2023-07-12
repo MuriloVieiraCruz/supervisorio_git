@@ -57,5 +57,6 @@ npm run dev
 
 # Autores
 
-| [<img src="https://avatars.githubusercontent.com/u/113257963?v=4" width=115><br><sub>Murilo Vieira Cruz</sub>](https://github.com/MuriloVieiraCruz) |  [<img src="https://avatars.githubusercontent.com/u/117123575?v=4" width=115><br><sub>Luiz Henrique Pereira Corrêa</sub>](https://github.com/luiz0899)
-| :---: | :---: | :---: |
+| [<img src="https://avatars.githubusercontent.com/u/113257963?v=4" width=115><br><sub>Murilo Vieira Cruz</sub>](https://github.com/MuriloVieiraCruz) | [<img src="https://avatars.githubusercontent.com/u/117123575?v=4" width=115><br><sub>Luiz Henrique Pereira Corrêa</sub>](https://github.com/luiz0899) |
+| :---: | :---: |
+
